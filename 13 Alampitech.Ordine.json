@@ -1,0 +1,112 @@
+[{
+  "_id": {
+    "$oid": "668e93b73c1326cb187aacda"
+  },
+  "NumOrdine": 2784,
+  "Cliente": {
+    "IDCliente": 1,
+    "CF": "MNNFNC94R31D122U",
+    "PIVA": "",
+    "Nome": "Francesco",
+    "Cognome": "Mannarino",
+    "Indirizzo": "Via M.L.King ,8",
+    "Citta": "Crotone",
+    "CAP": 88900,
+    "Provincia": "KR",
+    "Email": "francycrotone@hotmail.it",
+    "Telefono": "3933975963",
+    "Fedeltà": "G"
+  },
+  "Data": "2024-07-06",
+  "Stato": "Completato",
+  "Tipo": "Acquisto",
+  "Carrello": [
+    {
+      "Articolo": {
+        "$oid": "668e938f3c1326cb187aacba"
+      },
+      "Quantita": 2
+    },
+    {
+      "Articolo": {
+        "$oid": "668e938f3c1326cb187aacc2"
+      },
+      "Quantita": 1
+    }
+  ],
+  "Fattura": {
+    "NumFattura": 1,
+    "Sconto": 10,
+    "Imponibile": 1000,
+    "DataFattura": "2024-07-06",
+    "Ordine": 2784,
+    "Iva": 220,
+    "Pagamento": {
+      "Stato": "Effettuato",
+      "Importo": 1180,
+      "DataPagamento": "2024-07-06"
+    }
+  },
+  "Spedizione": {
+    "DataSpedizione": "2024-07-06",
+    "DataConsegna": "2024-07-10",
+    "Vettore": "SDA",
+    "NTracking": "IT876531476",
+    "Note": "Chiamare prima di consegna",
+    "Stato": "Spedito",
+    "Costo": 9.9
+  }
+},
+{
+  "_id": {
+    "$oid": "668e93b73c1326cb187aacdd"
+  },
+  "NumOrdine": 5689,
+  "Cliente": {
+    "IDCliente": 6,
+    "CF": "LMPNTA01G15F456B",
+    "PIVA": "",
+    "Nome": "Antonio",
+    "Cognome": "Alampi",
+    "Indirizzo": "Viale S. Martino, 210",
+    "Citta": "Taurianova",
+    "CAP": 89029,
+    "Provincia": "RC",
+    "Email": "antonio.alampi@gmail.com",
+    "Telefono": "3215485698",
+    "Fedeltà": "G"
+  },
+  "Data": "2024-07-03",
+  "Stato": "Completato",
+  "Tipo": "Acquisto",
+  "Carrello": [
+    {
+      "Articolo": {
+        "$oid": "668e938f3c1326cb187aacc0"
+      },
+      "Quantita": 1
+    }
+  ],
+  "Fattura": {
+    "NumFattura": 2,
+    "Sconto": 10,
+    "Imponibile": 1029.99,
+    "DataFattura": "2024-07-03",
+    "Ordine": 5689,
+    "Iva": 226.38,
+    "Pagamento": {
+      "Stato": "Effettuato",
+      "Importo": 1129.84,
+      "DataPagamento": "2024-07-03"
+    }
+  },
+  "Spedizione": {
+    "DataSpedizione": "2024-07-03",
+    "DataConsegna": "2024-07-07",
+    "Vettore": "GLS",
+    "NTracking": "IT753653589",
+    "Note": "Consegna dopo le 18",
+    "Stato": "In Consegna",
+    "Costo": 8.9
+  }
+}]

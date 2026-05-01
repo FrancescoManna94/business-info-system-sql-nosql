@@ -1,0 +1,106 @@
+[{
+  "_id": {
+    "$oid": "668e938f3c1326cb187aacba"
+  },
+  "IDArticolo": 1423,
+  "Tipo": "Prodotto",
+  "Brand": "Trust",
+  "Quantità": 3,
+  "Descrizione": "M185 Mouse Wireless, 2,4 GHz con Mini Ricevitore USB",
+  "OrdineRestock": {
+    "IDRestock": 4536,
+    "DataRestock": "2024-06-30",
+    "Note": "Urgente",
+    "Fornitore": {
+      "PIVAFornitore": "1435675438",
+      "RagioneSociale": "Il Trillo Telefonia s.r.l.s.",
+      "Indirizzo": "Via G. Garibaldi, 229",
+      "Citta": "Messina",
+      "CAP": 98122,
+      "Provincia": "ME",
+      "Email": "iltrillo@telefonia.info",
+      "Telefono": "0905726659",
+      "QuantitaDisp": 12,
+      "Vettore": "GLS",
+      "Insolvenze": "No"
+    }
+  },
+  "Prezzo": [
+    {
+      "DataInizioValidità": "2024-06-25",
+      "Valore": 19.99
+    },
+    {
+      "DataInizioValidità": "2024-07-01",
+      "Valore": 18.99
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668e938f3c1326cb187aacc0"
+  },
+  "IDArticolo": 4252,
+  "Tipo": "Prodotto",
+  "Brand": "MSI",
+  "Quantità": 1,
+  "Descrizione": "Laptop MSI Katana 15 B13VFK-1672IT",
+  "OrdineRestock": {
+    "IDRestock": 7895,
+    "DataRestock": "2024-06-30",
+    "Note": "",
+    "Fornitore": {
+      "PIVAFornitore": "79524859632",
+      "RagioneSociale": "FP-TECH s.r.l.",
+      "Indirizzo": "Via Pietro Nenni, 32",
+      "Citta": "Trecastagni ",
+      "CAP": 95039,
+      "Provincia": "CT",
+      "Email": "fp_tech@libero.it",
+      "Telefono": "0957213232",
+      "QuantitaDisp": 3,
+      "Vettore": "GLS",
+      "Insolvenze": "Si"
+    }
+  },
+  "Prezzo": [
+    {
+      "DataInizioValidità": "2024-06-25",
+      "Valore": 1029.99
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "668e938f3c1326cb187aacc2"
+  },
+  "IDArticolo": 4524,
+  "Tipo": "Prodotto",
+  "Brand": "Logitech",
+  "Quantità": 2,
+  "Descrizione": "Ody II Tastiera Wireless, Resistente agli Schizzi, Ricevitore USB 2.4GHz,",
+  "OrdineRestock": {
+    "IDRestock": 7895,
+    "DataRestock": "2024-06-25",
+    "Note": "",
+    "Fornitore": {
+      "PIVAFornitore": "79524859632",
+      "RagioneSociale": "FP-TECH s.r.l.",
+      "Indirizzo": "Via Pietro Nenni, 32",
+      "Citta": "Trecastagni ",
+      "CAP": 95039,
+      "Provincia": "CT",
+      "Email": "fp_tech@libero.it",
+      "Telefono": "0957213232",
+      "QuantitaDisp": 3,
+      "Vettore": "GLS",
+      "Insolvenze": "Si"
+    }
+  },
+  "Prezzo": [
+    {
+      "DataInizioValidità": "2024-06-25",
+      "Valore": 29.99
+    }
+  ]
+}]
